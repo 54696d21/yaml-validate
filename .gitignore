@@ -1,0 +1,9 @@
+.idea
+.vscode
+*.pyo
+!/**/.gitkeep
+bin/*
+.DS_Store
+__pycache__
+config.yaml
+yaml_validate.egg-info
